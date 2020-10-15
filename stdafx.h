@@ -1,0 +1,11 @@
+#pragma once
+#include <ntdef.h>
+#include <ntifs.h>
+#include <ntddk.h>
+#include <ntstrsafe.h>
+#include <wdm.h>
+#include "Rtl.h"
+#include "Zw.h"
+#include "Ps.h"
+#include "Mm.h"
+#include "Dbg.h"
